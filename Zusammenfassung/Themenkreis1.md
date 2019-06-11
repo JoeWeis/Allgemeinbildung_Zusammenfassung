@@ -192,3 +192,62 @@ Man unterscheidet drei Formen von Schriftlichkeit:
 - **Veröffentlichung: ** Oder die müssen veröffentlicht werden um sie jedermann bekannt zu machen. (z.B. im Kantonsblatt beim Haus- oder Grundstückskauf)
 
 # Lehrvertrag
+
+Der Bund hat das Berufsbildungsgesetz (BBG) erlassen in dem die Grundlegenden Regelungen definiert sind. Zusätzliche Bestimmungen zum Lehrvertrag stehen in OR 344 ff. und im Arbeitsgesetz (ArG).
+
+Im Gegensatz zum gewöhnlichen Einzelarbeitsvertrag muss der Lehrvertrag, um gültig zu sein, schriftlich abgeschlossen werden (OR 344a). Das Gesetz umschreibt den Mindestinhalt des Vertrages:
+
+- die Berufsbezeichnung
+
+- die exakte Dauer der Berufsausbildung im Betrieb
+
+- Lohn (Lohnabrechnung siehe S. 37 und 40 f.)
+
+- Probezeit
+
+- wöchentliche Arbeitszeit
+
+- Ferien
+
+Der Lehrvertrag trägt die Unterschrift des Lehrmeisters und des Lehrlings. Ist der Lehrling noch nicht volljährig, muss der Vertrag vom gesetzlichen Vertreter (Inhaber der elterlichen Sorge oder Vormund, siehe S. 66) mitunterschrieben werden. 
+
+Der Lehrvertrag muss dem kantonalen Amt für Berufsbildung zur Überprüfung eingereicht werden. Dieses bestätigt mit seiner Unterschrift die Gültigkeit der getroffenen
+Vereinbarungen (BBG 14).
+
+## Lehrmeister
+
+### Pflichten
+
+- den Lehrling für einen bestimmten Beruf fachgemäss ausbilden (OR 344)
+- den Lehrling fachgemäss ausbilden oder ihn von einer qualifizierten Fachkraft ausbilden lassen (OR 345a1)
+- dem Lehrling den Lohn bezahlen (OR 3221, OR 323b1)
+- den Lehrling ohne Lohnabzug für den Besuch der Berufsfachschule, für überbetriebliche Kurse und die Lehrabschlussprüfung freistellen (OR 345a2)
+- den Lehrling nur für Arbeiten heranziehen, die mit dem zu erlernenden Beruf im Zusammenhang stehen (OR 345a4)
+- dem Lehrling den Besuch der Berufsmaturitätsschule ermöglichen (Voraussetzung: Leistungen im Betrieb und in der Schule erlauben dies; BBG 172+4)
+- dem Lehrling zum Besuch von Freifächern bis zu einem halben Tag ohne Lohnabzug frei geben (Voraussetzung: Leistungen im Betrieb und in der Schule erlauben dies; BBG 223 und BBV 20)
+- dem Lehrling Überstunden durch Freizeit von gleicher Dauer ausgleichen oder mit 25% Lohnzuschlag  entschädigen (OR 321c1-3)
+- bis zum Erreichen des 20. Lebensjahrs 5 Wochen Ferien gewähren (OR 329a), davon zwei  zusammenhängend (OR 329c)
+- das Amt für Berufsbildung bei Auflösung des Lehrverhältnisses orientieren (BBG 144)
+- am Ende der Lehre ein Lehrzeugnis ausstellen (OR 346a)
+
+## Lernende Person
+
+### Pflichten
+
+- Arbeit im Dienste des Lehrmeisters leisten (OR 344)
+- alles tun, um die Lernziele zu erreichen (OR 3451)
+- Anordnungen des Lehrmeisters befolgen (OR 321d)
+- die übertragenen Arbeiten gewissenhaft ausführen (OR 321a1)
+- den Unterricht in der Berufsfachschule besuchen (BBG 213)
+- die Geräte und Materialien sorgfältig behandeln (Sorgfaltspflicht; OR 321a2)
+- obligatorisch an überbetrieblichen Kursen und an der Lehrabschlussprüfung teilnehmen (BBG 233)
+
+## Lehrvertragsbeendigung
+
+Es ist möglich den Lehrvertrag unter folgenden Gründen zu beenden:
+
+- Vertragsauslauf
+- Beendigung während der Probezeit
+- Auflösung der Lehre aus wichtigem Grund
+  - Eine Partei erfüllt eine ihrer Pflichten nicht.
+  - Der Lehrling ist den körperlichen oder geistigen Anforderungen für einen erfolgreichen Lehrabschluss nicht gewachsen.

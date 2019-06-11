@@ -1,24 +1,22 @@
-# Themenkreis 2 STAAT UND POLITIK
+# Meinungsbildung
 
-## Meinungsbildung
+## Informationskanäle
 
-### Informationskanäle
-
-#### Ressorts und Redaktionen
+### Ressorts und Redaktionen
 
 Eine Redaktion ist in mehrere Ressorts aufgeteilt. Ein Ressort ist jeweils immer für ein Themengebiet zuständig und kann selbstständig entscheiden, welche Beiträge sie dazu erstellen.
 
 Beispiele für Ressorts:  politisch, lokal, Kunst...
 
-#### Reporter
+### Reporter
 
 Freischaffende Journalisten, nicht bei einer Redaktion angestellt. Einige recherchieren selbstständig andere erhalten aufträge von Redaktionen.
 
-#### Korrespondenten
+### Korrespondenten
 
 Ein Korrespondent ist in einem Gebiet stationiert und ist für dieses Zuständig. Es kann sich hierbei um ein fernes Land haldeln, in dem eine Kriese herrscht oder um eine wichtige Institution (UNO-Hauptsitz, Bundeshaus...).
 
-#### Nachrichtenagenturen
+### Nachrichtenagenturen
 
 Nachrichten- und Presseagenturen sammeln Nachrichten und verarbeiten diese zu fertigen Meldungen.
 
@@ -27,15 +25,15 @@ Medienhäuser übernehmen die Meldungen (meist auch unverändert) und publiziere
 Medienagenturen haben meist Kürzel. Beispile: AP (The Associated Press, USA), Reuters
 (Grossbritannien), dpa (Deutsche Presse-Agentur)...
 
-#### Pressemitteilungen, Pressekonferenz
+### Pressemitteilungen, Pressekonferenz
 
 Mitteilung von Institution (Polizei, Bundesrat, Unternehmen...) an die Presse. Geschieht schriftlich oder in einer Pressekonferenz mündlich.
 
-### Massenmedien
+## Massenmedien
 
 Aktuelle und schnelle Informationsträger, die grosse Massen erreichen können, zum Beispiel Presse, Radio, Fernsehen und Multimedia.
 
-#### Aufgaben 
+### Aufgaben 
 
 - Information (möglichst sachlich über Geschehnisse Informieren)
 - Mitwirkung bei der Meinungsbildung (Mit öffentlichen Diskussionen zwischen Meinungsgruppen die Meinungsbildung des Volkes anregen)
@@ -43,35 +41,31 @@ Aktuelle und schnelle Informationsträger, die grosse Massen erreichen können, 
 - Bildung
 - Unterhaltung
 
-### Internet als Informationsquelle
+# Verein
 
-TODO: Das Internet als Informationsquelle sinnvoll anwenden
-
-## Verein
-
-### Anwendung
+## Anwendung
 
 Vereine widmen sich nur nicht wirtschaftlichen Aufgaben. Mögliche Gebiete in denen sie eingesetzt werden können sind: Politik, Religion, Wissenschaft, Kunst usw...
 
-### Gründung
+## Gründung
 
 Um einen Verein zu Gründen müssen lediglich die Statuten geschrieben und von der Gründungsversammlung angenommen werden.
 
 Den Statuten muss zu entnehmen sein, dass der Verein als solcher auftreten möchte.
 
-### Organe
+## Organe
 
-#### Vereinsversammlung
+### Vereinsversammlung
 
 Höchstes Organ in einem Verein. Besteht aus allen Mitgliedern. Die Vereinsversammlung hat immer das letzte Wort.
 
-#### Vorstand
+### Vorstand
 
 Gewisse vom Gesetz und den Statuten definierte Aufgaben darf der Vorstand durchführen. Der Vorstand muss im Interesse des Vereins (also aufgrund der Statuten) handeln.
 
 Das Gesetz sieht vor, dass der Vorstand die Buchführung (Finanzen) des Vereins erledigt.
 
-#### Revisionsstelle
+### Revisionsstelle
 
 Die Buchhaltung muss unter folgenden Bedingungen durch eine Revisionsstelle geprüft werden:
 
@@ -79,11 +73,11 @@ Die Buchhaltung muss unter folgenden Bedingungen durch eine Revisionsstelle gepr
 - Umsatzerlös von 20 Millionen Franken
 - 50 Vollzeitstellen
 
-### Handelsregister
+## Handelsregister
 
 Ein Verein muss sich ins Handelsregister eintragen lassen, wenn er nach kaufmännischer Art geführt wird, oder revisionspflichtig (siehe oben) ist.
 
-## Menschenrechte
+# Menschenrechte
 
 BV 7: Menschenwürde
 BV 8: Rechtsgleichheit
@@ -113,39 +107,29 @@ BV 33: Petitionsrecht
 BV 35: Verwirklichung der Grundrechte (Wie werden die Grundrechte umgesetzt)
 BV 36: Einschränkungen von Grundrechten (Welche Einschränkungen gibt es bei den Grundrechten)
 
-TODO START:
+## Politisches System Schweiz
 
-1. Bedeutung der Menschenrechte als Basis von Staatswesen und
-   Rechtsetzung aufzeigen
-2. Menschenrechtsverletzungen erläutern
-3. Ausländerstatus in der Schweiz erklären können
-4. Eigene Einstellung gegenüber Fremden erläutern und überprüfen
-
-TODO END
-
-### Politisches System Schweiz
-
-### Gewaltenteilung
+## Gewaltenteilung
 
 In der Schweiz gibt es eine sogenannte Gewaltenteilung. Diese teilt die Macht der Regierung auf in drei Teile. 
 
 ![1560164343326](Themenkreis2.assets/1560164343326.png)
 
-### Zweikammersystem
+## Zweikammersystem
 
-#### Nationalrat
+### Nationalrat
 
 - 200 Abgeordnete des Volkes
 - Sitze werden auf Kantone anhand derer Einwohnerzahl verteilt
 - Amtsdauer 4 Jahre
 
-#### Ständerat
+### Ständerat
 
 - 46 Abgeordnete der Kantone
 - Jeder Kanton hat zwei Sitze, jeder Halbkanton einen
 - Amtsdauer 4 Jahre
 
-#### Vereinigte Bundesversammlung
+### Vereinigte Bundesversammlung
 
 Für bestimmte Aufgaben treffen sich National- und Ständerat und bilden die vereinigte Bundesversammlung.
 
@@ -153,7 +137,7 @@ Für bestimmte Aufgaben treffen sich National- und Ständerat und bilden die ver
 - Begnadigung (Urteile und Strafen vom Bundesgericht teilweise oder ganz erlassen)
 - Zuständigkeitskonflikte entscheiden (zwischen Parlament, Bundesrat und Bundesgericht)
 
-### Parteien
+## Parteien
 
 Im folgenden eine Auflistung der Parteien, die in der Bundesversammlung vertreten sind.
 
@@ -170,7 +154,7 @@ Im folgenden eine Auflistung der Parteien, die in der Bundesversammlung vertrete
 - (SVP) Schweizerische Volkspartei: rechtspopulistisch, nationalkonservativ, teils wirtschaftsliberal, isolationistisch
 - (SP) Sozialdemokratische Partei der Schweiz: sozialdemokratisch, für starken Sozialstaat, ökologisch, gesellschaftsliberal, links
 
-### Fraktionen
+## Fraktionen
 
 Fraktionen sind Zusammenschlüsse von Politikern. 
 Fraktionen haben das Recht parlamentarische Initiativen, Vorstösse, Anträge
@@ -182,11 +166,11 @@ Fraktionen zwischen 2011-2015
 
 ![1560170350005](Themenkreis2.assets/1560170350005.png)
 
-### Bundesrat
+## Bundesrat
 
 Der Bundesrat besteht aus 7 Mitgliedern und hat eine Amtszeit von 4 Jahren.
 
-#### Aktuelle List
+### Aktuelle List
 
 - Ueli Maurer (Bundespräsident)
 - Ingrazio Cassis
@@ -196,16 +180,16 @@ Der Bundesrat besteht aus 7 Mitgliedern und hat eine Amtszeit von 4 Jahren.
 - Guy Parmelin
 - Simonetta Sommaruga
 
-#### Aufgaben
+### Aufgaben
 
 - Regieren
 - Planen
 
-#### Kollegialsystem
+### Kollegialsystem
 
 Der Bundesrat tritt immer als gesamtes auf. Werden in den Sitzungen Dinge beschlossen, haben nach aussen alle die selbe Meinung, auch wenn einzelne der Mitglieder selber eigentlich eine andere Meinung haben.
 
-#### Departementsprinzip
+### Departementsprinzip
 
 Jeder Bundesrat ist für ein Departement zuständig. Hierbei zählt aber immer noch das Kollegialsystem. Bei Entscheidungen hat also der Departementschef keine zusätzlichen Rechte wie die anderen Mitglieder.
 
@@ -217,13 +201,13 @@ Jeder Bundesrat ist für ein Departement zuständig. Hierbei zählt aber immer n
 - Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF).
 - Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)
 
-#### Bundespräsident
+### Bundespräsident
 
 Vorsitz im Bundesrat, hat jedoch nicht mehr Rechte als die anderen Mitglieder. 
 
 Amtsdauer: 1 Jahr
 
-##### Aufgaben
+#### Aufgaben
 
 - Bundesratssitzungen vorbereiten und leiten
 - Bei Stimmengleichheit den Stichentscheid geben
@@ -231,39 +215,39 @@ Amtsdauer: 1 Jahr
 - Sich an die Bevölkerung wenden (Neujahr, 1.August, Tag der Kranken...)
 - In den Räten den Geschäftsbericht des Bundesrates vertreten
 
-### Arten von Mehr
+## Arten von Mehr
 
-#### Absolutes Mehr
+### Absolutes Mehr
 
 Einer mehr als die Hälfte
 
-#### Relatives Mehr
+### Relatives Mehr
 
 Der mit den Meisten Stimmen gewinnt.
 
-#### Qualifiziertes Mehr
+### Qualifiziertes Mehr
 
 Nur beim erreichen von zwei Drittel der Stimmen.
 
-#### Volksmehr
+### Volksmehr
 
 Die Mehrheit der gültig stimmenden Personen.
 
-#### Ständemehr
+### Ständemehr
 
 Die Mehrheit der Kantone (Stände).
 
-#### Doppeltes Mehr
+### Doppeltes Mehr
 
 Volks- sowie Stände mehr sind gegeben.
 
-### Stimmen/Wählen
+## Stimmen/Wählen
 
 Aktives Wahlrecht: Man kann andere Menschen wählen.
 
 Passives Wahlrecht: Man kann selbst gewählt werden.
 
-#### Majorzwahlverfahren
+### Majorzwahlverfahren
 
 Beim Majorzwahlverfahren wird nur die Mehrheit der Stimmen beachtet. Das heisst die Person mit den meisten Stimmen wird gewählt.
 
@@ -271,7 +255,7 @@ Dieses Verfahren wird eingesetzt, wenn nur ein Sitz zu vergeben ist.
 
 Normalerweise gilt das Absolute Mehr. Wird dies nicht erreicht gibt es meist einen zweiten Wahlgang, in dem dann das Relative mehr gilt.
 
-#### Proportwahlverfahren
+### Proportwahlverfahren
 
 Die Sitze werden gemäss dem Verhältnis der Stimmen auf die Parteien aufgeteilt.
 
@@ -281,27 +265,27 @@ Dieses Verfahren kommt nur in wenigen Fällen zur Anwendung.
 - Grosser Rat / Kantonsrat / Landrat
 - Einwohnerrat / Grosser Gemeinderat / Grosser Stadtrat
 
-### Rangordnung der Rechtserlasse
+## Rangordnung der Rechtserlasse
 
-#### Verfassung
+### Verfassung
 
 Grundgesetz, Änderungen werden vom Volk und den Ständen entschieden.
 
 Die Verfassung ist die Grundlage für die Schaffung von Gesetzten.
 
-##### Gesetz
+#### Gesetz
 
 Gesetzte, welche vom National- und Ständerat beschlossen werden.
 
 Gesetzte enthalten Rechte, Pflichten, Gebote und Verbote.
 
-#### Verordnung
+### Verordnung
 
 Verordnungen sind untergeordnete Erlasse, welche Details regeln. Diese Verordnungen werden vom Bundesrat erlassen und unterstehen nicht dem Referendum.
 
-## Volks und Grundrechte der Schweiz
+# Volks und Grundrechte der Schweiz
 
-### Referendum
+## Referendum
 
 Das Volk kann über Beschlüsse vom Parlament mitentscheiden.
 
@@ -314,17 +298,17 @@ Um eine Abstimmung zu forcieren müssen folgende Bedingungen erfüllt werden:
   - oder
 - Innerhalb von 100 Tagen verlangen 8 Kantone eine Abstimmung durch das Volk
 
-### Initiative
+## Initiative
 
 Das Recht des Volkes, neue Artikel und / oder die Änderung oder die Aufhebung bestehender Artikeln der Bundesverfassung anzuregen.
 
-#### Formulierte Initiative
+### Formulierte Initiative
 
 Beim Einreichen der Initiative wird direkt der genaue Wortlaut des Textes mitgeliefert.
 
 Dies ist normalerweise der Fall.
 
-#### Allgemeine Anregung
+### Allgemeine Anregung
 
 Eine Forderung des Volkes ohne genauen Gesetzestext.
 
@@ -339,7 +323,7 @@ Damit es zu einer Abstimmung kommt müssen folgende Bedingungen gegeben sein:
 - Einheit der Materie muss bewahrt sein, sprich es wird nur über etwas abgestimmten.
 - Zwingende Menschenrechte dürfen nicht verletzt werden.
 
-### Pflichten
+## Pflichten
 
 Schweizer Bürgerinnen und Bürger haben folgende Pflichten:
 
