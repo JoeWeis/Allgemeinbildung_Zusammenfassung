@@ -1,3 +1,147 @@
+## Bedürfnisse
+
+Abraham Maslow ordnet die menschlichen Bedürfnisse auf einer fünfstufigen Pyramide:
+
+![Bedürfnisspyramide](C:\Users\jowei\Sharepoint\Schule\ABU\Allgemeinbildung_Zusammenfassung\Themenkreis3\Bedürfnispyramide.jpg)
+
+*Grundsätzlich gilt:* Erst wenn das untergeordnete Bedürfnis (z.B. das Grundbedürfnis) befriedigt ist, tritt das nächsthöhere Bedürfnis (z.B. das Sicherheitsbedürfnis) auf.
+
+## Produktionsfaktoren
+
+Grundsätzlich funktioniert jedes Unternehmen nach dem gleichen Prinzip: Es erhält einen Input. Unter Einsatz der Produktionsfaktoren (Boden, Arbeit und Kapital) versucht es, den Wert des Produktes zu steigern und dieses anschliessend wieder zu verkaufen. 
+
+- **Boden:** Landwirtschaft auf einem Feld.
+- **Arbeit:** Erbringen einer Dienstleistung
+- **Kapital:** Vermehrung des Aktienkapitals
+
+## Wirtschaftsmodelle
+
+In den beiden absoluten Modellformen funktioniert keine Volkswirtschaft auf der Erde. Wer in einem Staat über die Staatsgewalt verfügt, bestimmt, ob die Wirtschaft eher nach marktwirtschaftlichen oder mehr nach planwirtschaftlichen Grundsätzen funktioniert.
+Die Theorie unterscheidet grundsätzlich zwischen zwei Wirtschaftsmodellen:
+
+### Freie Marktwirtschaft
+
+Die freie Marktwirtschaft funktioniert ausschliesslich nach dem Prinzip des freien Marktes, wo Angebot und Nachfrage aufeinandertreffen. Es gibt keine staatlichen Eingriffe.
+
+### Zentrale Planwirtschaft 
+
+Das wirtschaftliche Geschehen wird durch den Staat allein geregelt. Ihm (der sozialen Gemeinschaft) gehören alle Produktionsfaktoren (Boden, Arbeit, Wissen, Kapital). Es herrscht totale staatliche Lenkung. 
+
+## Wirtschaftskreislauf
+
+![Wirtschaftskreislauf](C:\Users\jowei\Sharepoint\Schule\ABU\Allgemeinbildung_Zusammenfassung/Themenkreis3/Wirtschaftskreislauf.jpg)
+
+### Güterstrom
+
+Mithilfe der 3 Produktionsfaktoren können die Unternehmen Sachgüter herstellen und Dienstleistungen erbringen, welche sie auf dem Markt anbieten.
+
+### Geldstrom
+
+Die Unternehmen zahlen den privaten Haushalten für die Arbeit Löhne, für das Kapital Zinsen und für die Benützung des Bodens Grundrenten. 
+
+### Unternehmen / Produzenten
+
+Unternehmen stellen für die Volkswirtschaft Sachgüter her oder erbringen Dienstleistungen. Jedes Unternehmen (jeder Produzent) ist gleichzeitig immer auch ein privater Haushalt.
+
+### Private Haushalte/Konsumenten
+
+Der Begriff «private Haushalte (Konsumenten)» umfasst alle Wirtschaftssubjekte, die in der Volkswirtschaft Sachgüter und Dienstleistungen nachfragen.
+
+Der Begriff **Wirtschaftssubjekte** umfasst
+
+- alle privaten Personen (die privaten Haushalte),
+- sämtliche Unternehmen (Produzenten) sowie
+- die öffentliche Hand (Bund, Kantone, Gemeinden).
+
+### Geldwertstörung
+
+Das wirtschaftliche Gleichgewicht wird dann gestört, wenn die beiden Ströme nicht mehr übereinstimmen. Man unterscheidet bei den Geldwertstörungen zwischen Inflation und Deflation.
+
+#### Inflation 
+
+Anhaltender Anstieg des allgemeinen Preisniveaus. Der Wert des Geldes sinkt.
+
+Bei einer Inflation bläht sich die Geldmenge im Verhältnis zur Gütermenge auf, womit die Geldmenge grösser wird als die Gütermenge. Für die gleiche Summe Geld erhält man weniger Sachgüter und Dienstleistungen.
+
+#### Deflation
+
+Unter Deflation versteht man eine Rückgang des Preisniveaus für Güter und Dienstleistungen. Deflation entsteht, wenn die Nachfrage geringer ist als das Angebot (Absatzkrise). Deflation ist das Gegenteil von Inflation
+
+## Wirtschaftsbegriffe
+
+### Sozialprodukt
+
+Summe aller wirtschaftlichen Leistungen, die von den Einwohnern eines Landes innerhalb eines Jahrs erbracht werden.
+
+### Volkseinkommen
+
+Das Volkseinkommen beschreibt alle Einkommen, die in einem Jahr durch den Einsatz von Arbeit, Boden und Kapital in einem Land entstehen.
+
+### Konjunktur
+
+Die Konjunktur ist der Verlauf der wirtschaftliche Entwicklung.
+
+### Volkswirtschaft
+
+Die Gesamtheit aller bestandteile des einfachen Wirtschaftskreislaufs. Folgende Fragenstellungen sind bestandteile, der Vorkswirtschaftslehre
+
+- Berchnung des Volkseinkommens und Bruttoinlandsprodukt
+- Untersuchung der Konjunktur
+
+### Landesindex der Konsumentenpreise (LIK)
+
+Ist ein Massstab, der die allgemeine Preisentwicklung von all jenen Sachgütern und Dienstleistungen aufzeigt, welche für die privaten Haushalte von Bedeutung sind.
+
+### Wohstand
+
+Wohlstand bedeutet über möglichst viele und hochwertige Güter verfügen können.
+
+### Wohlfahrt
+
+Wohlfahrt heisst Lebensqualität und ist der Oberbegriff für alle Massnahmen, die zum Wohlbefinden des Menschen beitragen.
+
+### Bruttoinlandprodukt (BIP)
+
+Das BIP ist also die geeignete Grösse, um die wirtschaftliche Entwicklung eines Landes aufzuzeigen. Ein Staat kann das Bruttoinlandprodukt über mehrere Jahre hinweg vergleichen und das Wachstum seiner Volkswirtschaft berechnen. Man unterscheidet zwischen dem nominellen Bruttoinlandprodukt und dem realen Bruttoinlandprodukt.
+
+#### Nominelle BIP
+
+Beim nominellen BIP werden die während eines Jahres produzierten Sachgüter und Dienstleistungen zu laufenden Preisen berechnet. (Laufende Preise sind die im entsprechenden Jahr aktuellen Preise.)
+
+#### Reale BIP
+
+Beim realen BIP wird berücksichtigt, dass die während eines Jahres produzierten Sachgüter und Dienstleistungen, bezogen auf ein früheres Basisjahr, teurer geworden sind. Durch die Umrechnung auf dieses Basisjahr wird die Teuerung eliminiert. Dadurch kann das Wachstum einer Volkswirtschaft realistischer dargestellt werden.
+
+## Preisbildung
+
+Die Preisbildung auf dem Markt erfolgt aufgrund des Zusammenspiels zwischen Angebot und Nachfrage. Der Preis übernimmt in der freien Marktwirtschaft eine Signalfunktion, indem er anzeigt, dass Sachgüter und Dienstleistungen knapper werden. Der Preis lenkt Angebot und Nachfrage.
+
+Der Schnittpunkt der Angebots- und der Nachfragekurve wird «Gleichgewichtspreis» oder «Marktpreis» genannt. Beim Gleichgewichtspreis wird der Markt geräumt, d.h. die angebotene Menge entspricht der nachgefragten Menge.
+
+![Preisbildung](C:\Users\jowei\Sharepoint\Schule\ABU\Allgemeinbildung_Zusammenfassung/Themenkreis3/Preisbildung.jpg)
+
+## Wirtschaftssektoren
+
+**1. Sektor**: Beschaffung der Güter.
+
+- Landwirtschaft
+- Forstwirtschaft,
+- Jagd
+- Fischerei
+
+**2. Sektor**: Güterveredelung, Güterverarbeitung
+
+- Industrie
+- Gewerbebetriebe
+- Handwerker.
+
+**3. Sektor**: Dienstleistungen und Verwaltungen
+
+- Banken
+- Versicherungen
+- Gastgewerbe
+- Handel
+
 # Lohn
 
 Der Bruttolohn ist der Lohn ist der Lohn ohne den Abzug der Sozial- und Versicherungsleistungen.
